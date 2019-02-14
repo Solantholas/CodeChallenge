@@ -1,0 +1,7 @@
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\ProgrammingChallenge.exe.config
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\ProgrammingChallenge.exe
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\ProgrammingChallenge.pdb
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.csprojAssemblyReference.cache
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.exe
+C:\Users\kolen\source\repos\MyFirstProject\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.pdb
